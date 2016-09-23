@@ -1,6 +1,6 @@
 {
   "name": "aliasmap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "build aliases map",
   "main": "buildAliasesMap.js",
   "scripts": {
