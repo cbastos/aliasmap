@@ -11,8 +11,9 @@
   ],
   "author": "carlos bastos",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "async": "^2.0.1",
+    "fs": "0.0.1-security",
     "glob": "^7.0.6",
     "path": "^0.12.7"
   }
